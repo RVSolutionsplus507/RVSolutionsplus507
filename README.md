@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberto J. Vargas</h1>
-<h3 align="center">System Engineer & Frontend Developer from Panamá👨‍💻</h3>
+<h3 align="center">System´s Admin & Frontend Developer from Panamá👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvsolutionsplus507&label=Profile%20views&color=0e75b6&style=flat" alt="rvsolutionsplus507" /> </p>
 
