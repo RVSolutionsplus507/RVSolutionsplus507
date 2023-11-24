@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvsolutionsplus507" alt="rvsolutionsplus507" /></a> </p>
 
-- 🔭 I’m currently working on [SER0 Enterprise ERP web page](In Progress...)
-
 - 🌱 I’m currently learning **React Native, Typescript, Express**
 
 - 👯 I’m looking to collaborate on **React, React Native Project**
 
-- 🔭 I’m currently working on [Personal Porfolio with React](https://rv-solutions.net)
+- 🔭 I’m currently working on [Personal Portfolio with React](https://rv-solutions.net)
 
 - 👨‍💻 All of my projects are available at [In Progress...](In Progress...)
 
