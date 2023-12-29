@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **React, React Native Project**
 
-- 🔭 I’m currently working on [Personal Portfolio with React](https://rv-solutions.net)
+- 🔭 Go check my Projects! -->> [Personal Portfolio with React]([https://rv-solutions.net](https://rvs-portfolio.vercel.app/))
 
 - 👨‍💻 All of my projects are available at [In Progress...](In Progress...)
 
