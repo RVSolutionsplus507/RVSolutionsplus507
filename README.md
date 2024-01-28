@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roberto J. Vargas D.</h1>
-![GIF](https://drive.google.com/file/d/1ZpPVz-OBCULjVLR9VPDWbI0CJjl2GJoo/view?usp=drive_link)
+![Alt Text](https://drive.google.com/uc?export=view&id=1ZpPVz-OBCULjVLR9VPDWbI0CJjl2GJoo)
 <h3 align="center">System´s Admin & FullStack Developer from Panamá👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvsolutionsplus507&label=Profile%20views&color=0e75b6&style=flat" alt="rvsolutionsplus507" /> </p>
