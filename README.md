@@ -6,13 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvsolutionsplus507" alt="rvsolutionsplus507" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Typescript, Express**
+- 🌱 I’m currently learning **React Native, Typescript, ExpressJS**
 
 - 👯 I’m looking to collaborate on **React, React Native Project**
 
-- 🔭 Go check my Projects! -->> [Personal Portfolio with React](https://rvs-portfolio.vercel.app)
-
-- 👨‍💻 All of my projects are available at [In Progress...](In Progress...)
+- 🔭 Go check my Portfolio! -->> [Personal Portfolio with React](https://rvargas.dev)
 
 - 📝 I’m currently working on [https://sandalomagico.com](https://sandalomagico.com)
 
