@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋!</h1>
-<div align="center"> <img src="https://github.com/RVSolutionsplus507/PreEntrega3Vargas/blob/main/assets/gifrvslogo.gif?raw=true"> </div>
+<div align="center"> <img src="https://github.com/RVSolutionsplus507/rvargas-portfolio/blob/main/public/gifrvslogo.gif?raw=true"> </div>
 <h3 align="center">Take a look at my projects!👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rvsolutionsplus507&label=Profile%20views&color=0e75b6&style=flat" alt="rvsolutionsplus507" /> </p>
