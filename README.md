@@ -2,8 +2,6 @@
 <div align="center"> <img src="https://github.com/RVSolutionsplus507/rvargas-portfolio-v2/blob/main/src/assets/gifrvslogo.gif?raw=true"> </div>
 <h3 align="center">Take a look at my projects!👨‍💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rvsolutionsplus507&label=Profile%20views&color=0e75b6&style=flat" alt="rvsolutionsplus507" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvsolutionsplus507" alt="rvsolutionsplus507" /></a> </p>
 
 - 🌱 I’m currently learning **React Native, Typescript, ExpressJS**
