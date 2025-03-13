@@ -4,15 +4,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rvsolutionsplus507" alt="rvsolutionsplus507" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Typescript, ExpressJS**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **React, React Native Project**
+- 👯 I’m looking to collaborate on **React, NodeJS, Express, Prisma, Postgress**
 
 - 🔭 Go check my Portfolio! -->> [Personal Portfolio with React](https://rvargas.dev)
 
-- 📝 I’m currently working on [https://sandalomagico.com](https://sandalomagico.com)
+- 📝 I’m currently working on [https://bodavargasprado.com](https://bodavargasprado.com)
 
-- 💬 Ask me about **HTML, CSS, JS, React, Vite, Node, Tailwind, Python, SQLAlchemy, Flask, Firebase, SAAS**
+- 💬 Ask me about **HTML, CSS, JS, React, Vite, Node, Tailwind, Python, SQLAlchemy, Flask, Firebase, SAAS, NodeJS, Express, Prisma**
 
 - 📫 How to reach me **rvargas@rv-solutions.net**
 
